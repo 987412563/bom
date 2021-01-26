@@ -8,11 +8,12 @@
 ### 팀프로젝트 기간
 + 2020년12월12일 ~ 2021년01월12일
 
-### 서버주소
-+ <https://rclass.iptime.org/20PM_BOM_final/>
-
 ### 기획안
 + 설계주안점, 개발환경, 구현기능, 팀원별 역할
 
 ### 발표
 + UI 및 DB 설계, 실제 구현 화면 설명
+
+### 서버주소
++ <https://rclass.iptime.org/20PM_BOM_final/>
+
