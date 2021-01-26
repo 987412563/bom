@@ -11,6 +11,11 @@
 ### 기획안
 + 설계주안점, 개발환경, 구현기능, 팀원별 역할
 
+### 설계
++ Figma : <https://www.figma.com/file/8R3M0UB9dbnCcBMP23g3iz/%EB%8B%A4%EC%8B%9C-%EB%B4%84-Copy>
++ ERD : <https://www.erdcloud.com/d/si86MTcPbCAy3pmZk>
++ OneNote : 회의록 및 전체 설계 
+
 ### 발표
 + UI 및 DB 설계, 실제 구현 화면 설명
 
